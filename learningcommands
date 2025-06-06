@@ -33,4 +33,8 @@ commit - it is the record of change
 - git commit -m "some message"
 
 ---------------------------------
+Push command : 
+push - upload loacal repo content to remote repo
+
+git push origin main
 
