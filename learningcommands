@@ -1,0 +1,36 @@
+Git 
+- Version Control System is a tools that helps to track changes in code.
+- GIT is a Version Control System. It is:
+	- popular
+	- free & Open Source
+	- fast & scalable
+
+GITHUB
+- Website that allows developers to store and manage their code using Git.
+
+ Commands to setup global account on gitbash
+-git congig --global user.name "name"
+-git config --global user.email "email"
+-git config --list
+
+To clone the working git-repo
+-git clone "link"
+To know status 
+-git status
+
+--------------------------------------
+-untracked : new files thst git doesn't yet track
+-modified : changed
+-staged : file is ready to be commited
+-unmodified : unchanged
+----------------------------------------
+add and commit
+
+add - adds new or changed files in your working directory to the Git staging area.
+-git add <--file name -->
+
+commit - it is the record of change
+- git commit -m "some message"
+
+---------------------------------
+
